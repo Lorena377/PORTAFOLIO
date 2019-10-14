@@ -4468,6 +4468,7 @@ textarea {
     .section-home .section-wrapper.padding-top {
       padding-top: 160px; }
   .section-home .home-title {
+    width: 1400px;
     font-size: 3rem; }
     @media (min-width: 768px) {
       .section-home .home-title {
